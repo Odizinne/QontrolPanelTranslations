@@ -1,0 +1,1 @@
+# Hosting QontrolPanel translations
