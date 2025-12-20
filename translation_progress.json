@@ -1,38 +1,47 @@
 {
   "de": {
     "percentage": 0,
-    "last_updated": "2025-05-11 09:46:00 +0200"
+    "last_updated": "2025-05-11 09:46:00 +0200",
+    "contributor": "Steve"
   },
   "ko": {
-    "percentage": 100,
-    "last_updated": "2025-12-19 20:08:54 +0100"
+    "percentage": 99,
+    "last_updated": "2025-12-19 20:08:54 +0100",
+    "contributor": "VenusGirl❤"
   },
   "zh_CN": {
-    "percentage": 87,
-    "last_updated": "2025-10-05 23:26:29 +0200"
+    "percentage": 86,
+    "last_updated": "2025-10-05 23:26:29 +0200",
+    "contributor": "rampageX"
   },
   "fr": {
     "percentage": 99,
-    "last_updated": "2025-12-20 11:47:12 +0100"
+    "last_updated": "2025-12-20 11:47:12 +0100",
+    "contributor": "Odizinne"
   },
   "en": {
     "percentage": 100,
-    "last_updated": "2025-05-11 09:46:00 +0200"
+    "last_updated": "2025-12-20 11:36:50 ",
+    "contributor": "Odizinne"
   },
   "pl": {
-    "percentage": 4,
-    "last_updated": "2025-12-19 20:16:26 +0100"
+    "percentage": 100,
+    "last_updated": "2025-12-19 20:16:26 +0100",
+    "contributor": "Odizinne"
   },
   "ja": {
-    "percentage": 100,
-    "last_updated": "2025-12-20 01:14:21 +0100"
+    "percentage": 99,
+    "last_updated": "2025-12-20 01:14:21 +0100",
+    "contributor": "Re*Index. (ot_inc)"
   },
   "it": {
-    "percentage": 99,
-    "last_updated": "2025-12-19 15:58:59 +0100"
+    "percentage": 98,
+    "last_updated": "2025-12-19 15:58:59 +0100",
+    "contributor": "bovirus"
   },
   "ru": {
-    "percentage": 34,
-    "last_updated": "2025-05-11 09:46:00 +0200"
+    "percentage": 32,
+    "last_updated": "2025-05-11 09:46:00 +0200",
+    "contributor": "Steve"
   }
 }
